@@ -1,15 +1,18 @@
 ﻿# My Agent Skills
 
-欢迎来到 `my-agent-skills` 技能库！这是所有 Agent 技能体系的核心入口与总览。
+欢迎来到 `my-agent-skills` 技能库！这是为个人日常生活与工作打造的场景化能力聚合库，也是持续进化的“私人大脑”。
 
-## 目录结构
-- [`research/`](research/)：科研场景技能（核心场景）
-- [`live-ecommerce/`](live-ecommerce/)：直播电商场景技能
-- [`fund/`](fund/)：基金场景技能
-- [`daily-life/`](daily-life/)：日常生活场景技能
+无论是日常的信息处理、科研探索、金融研究还是电商运营，这里都沉淀了被验证过的高效工作流、提示词（Prompts）以及实用模板，帮助您更高效地调度与使用个人 Agent。
 
-### Agent 贡献必读
-如果你是后续被唤醒的 Agent，请先仔细阅读 [技能贡献元规范 (meta-skills/CONTRIBUTING_AGENT_SKILLS.md)](meta-skills/CONTRIBUTING_AGENT_SKILLS.md) 了解如何将新的技能正确放置于该仓库。
+## 场景分类
 
-### 快捷入口
-详情请查看 [技能索引页 (index.md)](index.md)。
+本仓库将各类技能划分为以下几大核心场景：
+
+- [🧪 科研场景 (Research)](research/)：涵盖文献检索、数据分析、论文润色等相关提示词与实用工具集。
+- [🛒 直播电商 (Live Ecommerce)](live-ecommerce/)：包含精细化直播话术设计模板与流程控场脚本控制等实战工具。
+- [📈 基金投资 (Fund)](fund/)：提供基金定期分析、调研框架等投资组合管理参考。
+- [☕ 日常生活 (Daily Life)](daily-life/)：包含任务管理与效率提升的工作流和智能信息整理辅助技巧。
+
+### 快速导航
+想了解详细的具体工具与场景说明，请查看：
+👉 **[🗂️ 技能索引页 (index.md)](index.md)**
