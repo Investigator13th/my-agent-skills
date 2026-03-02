@@ -15,3 +15,6 @@
 
 ## 4. 日常生活场景 (Daily Life)
 - [日常场景说明](daily-life/README.md)
+
+## 5. Agent 开发与发布 (Agent Development)
+- [如何发布 Agent 技能到 SkillsMP / find-skills](agent-development/publish-agent-skills/SKILL.md)
