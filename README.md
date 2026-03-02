@@ -12,6 +12,7 @@
 - [🛒 直播电商 (Live Ecommerce)](live-ecommerce/)：包含精细化直播话术设计模板与流程控场脚本控制等实战工具。
 - [📈 基金投资 (Fund)](fund/)：提供基金定期分析、调研框架等投资组合管理参考。
 - [☕ 日常生活 (Daily Life)](daily-life/)：包含任务管理与效率提升的工作流和智能信息整理辅助技巧。
+- [🤖 Agent 开发 (Agent Development)](agent-development/)：Agent 工程学习资料与发布工作流，含 Anthropic 15 篇博客学习路线。
 
 ### 快速导航
 想了解详细的具体工具与场景说明，请查看：

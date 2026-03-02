@@ -18,3 +18,4 @@
 
 ## 5. Agent 开发与发布 (Agent Development)
 - [如何发布 Agent 技能到 SkillsMP / find-skills](agent-development/publish-agent-skills/SKILL.md)
+- [🗺️ Anthropic Agent 学习路线（15 篇博客精华）](agent-development/anthropic-agent-learning-path.md)
