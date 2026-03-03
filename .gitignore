@@ -1,5 +1,5 @@
 ﻿# 必须忽略 .agent 目录
-.agents/
+.agent/
 .agent-contributing.md
 .aider*/
 .env
